@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khongorzul</h1>
 <h3 align="center">A passionate Full-Stack developer from Mongolia</h3>
 
-<p align="center" style="margin: 5px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkhongorzulw" alt="wkhongorzulw" /></a> </p>
-
 - 👨‍💻 I'm currently working at [https://icode.mn/](https://icode.mn/)
 
 - 📫 How to reach me **bkhongorzul064@gmail.com**
